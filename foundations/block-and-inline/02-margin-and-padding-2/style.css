@@ -17,9 +17,12 @@ body {
 
 .title {
   font-size: 16px;
+  margin-bottom: 0px;
 }
 
 .content {
+  padding-top: 16px;
+  padding-bottom: 16px;
 }
 
 .button-container {
@@ -30,6 +33,6 @@ button {
   display: block;
   background: white;
   border: 1px solid #eee;
-  padding: 8px 16px;
+  padding: 8px 24px;
   margin: 0 auto;
 }
