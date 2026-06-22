@@ -38,11 +38,11 @@ body {
   justify-content: center;
   flex-shrink: 0;
 }
-.modal-content {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
+  .modal-content {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
 .modal-header {
   display: flex;
   justify-content: space-between;
